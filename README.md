@@ -22,12 +22,6 @@ CSS
 JavaScript
 (React version also supported if applicable — update if you're using it)
 
-🚀 How to Use / Run Locally
-
-# Or right-click and "Open with browser"
-📸 Demo / Screenshot
-(Add a GIF or screenshot showing the heart animation on double-tap.)
-
 🔧 How It Works
 Listens for double-tap or double-click events on the image container.
 
@@ -40,5 +34,5 @@ Navigate to the project folder: cd heart-emoji-on-doubletap
 
 🙋‍♂️ Author
 Git – https://github.com/Vishal202-rgb/
-Name - "VISHAL"
+Name - VISHAL
 
