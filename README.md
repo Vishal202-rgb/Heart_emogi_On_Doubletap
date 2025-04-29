@@ -28,18 +28,12 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/heart-emoji-on-doubletap.git
+git clone https://github.com/https://github.com/Vishal202-rgb/heart-emoji-on-doubletap.git
 Navigate to the project folder:
-
 bash
 Copy
 Edit
-cd heart-emoji-on-doubletap
-Open index.html in your browser:
 
-bash
-Copy
-Edit
 # On most systems:
 open index.html
 # Or right-click and "Open with browser"
@@ -52,7 +46,7 @@ Listens for double-tap or double-click events on the image container.
 Short GitHub Description:
 A simple and responsive heart emoji animation triggered by double-tap — perfect for like features in social media UIs.
 
-Clone the repository: git clone https://github.com/Vishal202-rgb/heart-emoji-on-doubletap.git
+Clone the repository: https://github.com/Vishal202-rgb/
 
 Navigate to the project folder: cd heart-emoji-on-doubletap
 
