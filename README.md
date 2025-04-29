@@ -23,19 +23,7 @@ JavaScript
 (React version also supported if applicable — update if you're using it)
 
 🚀 How to Use / Run Locally
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/https://github.com/Vishal202-rgb/heart-emoji-on-doubletap.git
-Navigate to the project folder:
-bash
-Copy
-Edit
-
-# On most systems:
-open index.html
 # Or right-click and "Open with browser"
 📸 Demo / Screenshot
 (Add a GIF or screenshot showing the heart animation on double-tap.)
